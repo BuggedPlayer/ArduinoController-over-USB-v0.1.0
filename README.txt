@@ -20,4 +20,5 @@ If you need to run back at the normal arduino firmware make the opposite process
 The sketch is editable and you can edit as much as you want defining new digital or analogue inputs.
 For standard i just put 4 potentiometers into A0, A1, A2, A3
 
-i was wondering to buy some multiplexers to increase the number of analogues inputs for arduino mega from 16 to 64
+i was wondering to buy some multiplexers to increase the number of analog inputs for arduino mega from 16 to 64
+
